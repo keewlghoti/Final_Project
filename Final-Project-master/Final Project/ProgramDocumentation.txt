@@ -1,0 +1,8 @@
+Authors: Adil Tahir
+	 Mike Bell
+Class: CS 1050
+
+This program has written and tested in Eclipse.
+
+Our "main" method is in the class "UserInteraction."
+
